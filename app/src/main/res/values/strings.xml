@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mail App</string>
+    <string name="string_title">Title</string>
+    <string name="string_to">To</string>
+    <string name="string_msg">Message</string>
+    <string name="btn_name">Send</string>
+</resources>
